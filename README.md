@@ -1,0 +1,1 @@
+The "Modern Chair" website is an immersive experience designed to showcase the impact of color on the aesthetic appeal of a modern chair. This interactive project allows users to explore various color themes for the chair, witnessing real-time transformations in the entire user interface in response to their selections.
